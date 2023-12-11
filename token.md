@@ -21,3 +21,7 @@ https://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@github.com/marine0401/ycyz_stm3
 
 
 git remote set-url origin https://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@github.com/marine0401/ycyz_stm32.git/
+
+The token will expire on Tue, Mar 5 2024
+
+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
